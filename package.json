@@ -1,0 +1,11 @@
+{
+  "name": "swarming",
+  "version": "1.0.0",
+  "description": "implementing flocking behaviour in JS",
+  "main": "swarm.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "alice.lieutier@gmail.com",
+  "license": "MIT"
+}
